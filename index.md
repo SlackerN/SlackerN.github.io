@@ -32,9 +32,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 张生辉
+
+
+```markdown
+
+# 自我介绍
+  张生辉，1997年生，在石家庄铁道大学就读软件工程专业，在校期间曾参与过“创青春”创业大赛，获得三等奖。性格开朗，有上
+  进心，与人有良好的沟通能力，热爱跑步，以及排球。
+## 就职经验
+  目前是一名在校生，在校期间开发过信息管理系统开发，例如河北省重大需求信息管理系统。
+### 个人技能
+  1.能够熟练使用eclipse，Android studio，等开发工具。
+  2.能够使用mysql，Oracle，sqlserver，HBASE等数据库。
+  3.熟练使用JAVA，c++等语言。
 
 - Bulleted
 - List
