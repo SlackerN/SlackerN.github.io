@@ -3,9 +3,6 @@
 
 ### 张生辉
 
-
-```markdown
-
 # 自我介绍
   张生辉，1997年生，在石家庄铁道大学就读软件工程专业，在校期间曾参与过“创青春”创业大赛，获得三等奖。性格开朗，有上
   进心，与人有良好的沟通能力，热爱跑步，以及排球。
@@ -16,19 +13,8 @@
   2.能够使用mysql，Oracle，sqlserver，HBASE等数据库。
   3.熟练使用JAVA，c++等语言。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-For more details see GitHub Flavored Markdown.
 
-Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
 
-Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
