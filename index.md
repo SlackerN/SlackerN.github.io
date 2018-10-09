@@ -16,7 +16,7 @@
   2.能够使用mysql，Oracle，sqlserver，HBASE等数据库。
   3.熟练使用JAVA，c++等语言。
 
-### 博客园链接 [link](https://www.cnblogs.com/shenghuizhang/)
+### 博客园链接 [super大蜗牛](https://www.cnblogs.com/shenghuizhang/)
 
 
 
