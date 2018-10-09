@@ -17,6 +17,6 @@
   3.熟练使用JAVA，c++等语言。
 
 ### 博客园链接 [super大蜗牛](https://www.cnblogs.com/shenghuizhang/)
-
+### github链接 [SlackerN](https://github.com/SlackerN)
 
 
