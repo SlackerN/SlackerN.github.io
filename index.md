@@ -4,7 +4,7 @@
 # 张生辉
 
 ## 个人简历
-  ![个人简历]（https://github.com/SlackerN/SlackerN.github.io/raw/master/%E7%AE%80%E5%8E%86/QQ%E5%9B%BE%E7%89%8720181010112256.png）
+  ![个人简历]（https://github.com/SlackerN/SlackerN.github.io/blob/master/jianli/jl.png)
   张生辉，1997年生，在石家庄铁道大学就读软件工程专业，在校期间曾参与过“创青春”创业大赛，获得三等奖。性格开朗，有上
   进心，与人有良好的沟通能力，热爱跑步，以及排球。
 ### 学习经历
