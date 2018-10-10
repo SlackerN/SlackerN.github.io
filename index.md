@@ -12,8 +12,8 @@
 ### 实践项目经验
   目前是一名在校生，在校期间开发过信息管理系统开发，例如河北省重大需求信息管理系统。
 ### 技能介绍
-  1.能够熟练使用eclipse，Android studio，等开发工具。
-  2.能够使用mysql，Oracle，sqlserver，HBASE等数据库。
+  1.能够熟练使用eclipse，Android studio，等开发工具。<br>
+  2.能够使用mysql，Oracle，sqlserver，HBASE等数据库。<br>
   3.熟练使用JAVA，c++等语言。
 
 ## 欢迎访问博客园、github：
